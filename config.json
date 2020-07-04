@@ -1,0 +1,16 @@
+{
+  "index_name": "softvar-js",
+  "start_urls": [
+    "https://softvar-js.netlify.app/"
+  ],
+  "stop_urls": [],
+  "selectors": {
+    "lvl0": ".main h1",
+    "lvl1": "article h2",
+    "lvl2": "article h5",
+    "lvl3": "article .description",
+    "lvl4": "article h4",
+    "lvl5": "article h6"
+  },
+  "nb_hits": 254
+}

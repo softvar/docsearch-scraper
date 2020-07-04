@@ -6,7 +6,7 @@ checker/node_modules
 src/__pycache__/
 src/strategies/__pycache__/
 *.pyc
-.env
+#.env
 update.sh
 
 *yarn.lock
